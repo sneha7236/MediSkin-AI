@@ -1,0 +1,12 @@
+streamlit>=1.40
+tensorflow>=2.16
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+matplotlib>=3.8
+Pillow>=10.2
+SQLAlchemy>=2.0
+bcrypt>=4.1
+python-dotenv>=1.0
+reportlab>=4.0
+pytest>=8.0
